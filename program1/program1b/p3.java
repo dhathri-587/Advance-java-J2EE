@@ -1,0 +1,26 @@
+
+/*Write a java program for getting different colors through ArrayList interface
+/and sort them using Collections.sort(ArrayListObj)*/
+
+package pgr1b;
+import java.util.*;
+
+public class p3 {
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		List<String> ls = new ArrayList<>();
+		
+		ls.add("Orange");
+		ls.add("Green");
+		ls.add("Pink");
+		ls.add("Red");
+		ls.add("Blue");
+		
+		System.out.println(ls);
+		
+		Collections.sort(ls);
+		
+		System.out.println(ls);
+	}
+}
