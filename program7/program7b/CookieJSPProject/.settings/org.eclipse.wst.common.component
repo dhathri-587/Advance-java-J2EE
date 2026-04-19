@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="FactorialCalculatorDemooooo">
+    <wb-module deploy-name="CookieJSPProject">
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
-        <property name="context-root" value="FactorialCalculatorDemooooo"/>
-        <property name="java-output-path" value="/FactorialCalculatorDemooooo/build/classes"/>
+        <property name="context-root" value="CookieJSPProject"/>
+        <property name="java-output-path" value="/CookieJSPProject/build/classes"/>
     </wb-module>
 </project-modules>
