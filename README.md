@@ -1,2 +1,27 @@
-"# Advance-java-J2EE" 
-"# Advance-java-J2EE" 
+program 1a output - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/1a%20output.png
+
+program 1b-p1 output - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/1b(p1).png?raw=true
+
+program 1b-p2 output - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/1b(p2).png?raw=true
+
+program 1b-p3 output - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/1b(p3).png?raw=true
+
+program 1b-p4 output - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/1b(p4).png?raw=true
+
+program 1b-p5 output- https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/1b(p5).png?raw=true
+
+program 1c-p6 output - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/1c(p6).png?raw=true
+
+program 1c-p7 output - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/1c(p7).png?raw=true
+
+program 1c-p8 output - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/1c(p8).png?raw=true
+
+program 1c-p9 output - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/1c(p9).png?raw=true
+
+program 1c-p10 output - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/1c(p10).png?raw=true
+
+program 2a output - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/2a.png?raw=true
+
+program 2b output - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/2b.png?raw=true
+
+program 3a output - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/3a.png?raw=true
