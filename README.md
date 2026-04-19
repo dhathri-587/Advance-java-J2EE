@@ -15,3 +15,5 @@ program 1c-p6 output - https://github.com/dhathri-587/Advance-java-J2EE/blob/mai
 program 1c-p7 output - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/1c(p7).png?raw=true
 
 program 1c-p8 output - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/1c(p8).png?raw=true
+
+program 1c-p9 output - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/1c(p9).png?raw=true
