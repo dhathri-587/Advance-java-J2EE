@@ -21,3 +21,7 @@ program 1c-p9 output - https://github.com/dhathri-587/Advance-java-J2EE/blob/mai
 program 1c-p10 output - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/1c(p10).png?raw=true
 
 program 2a output - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/2a.png?raw=true
+
+program 2b output - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/2b.png?raw=true
+
+program 2c output - 
