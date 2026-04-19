@@ -24,4 +24,4 @@ program 2a output - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/j
 
 program 2b output - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/2b.png?raw=true
 
-program 2c output - 
+program 3a output - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/3a.png?raw=true
