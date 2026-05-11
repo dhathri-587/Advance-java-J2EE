@@ -80,4 +80,24 @@ output 9b - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/9b.p
 
 output 9c - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/9c.png?raw=true
 
+output 10a - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/10a.png?raw=true
+
+output 10b - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/10b.png?raw=true
+
+output 11a - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/11a.png?raw=true
+
+output 11b - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/11b.png?raw=true
+
+output 11c - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/11c.png?raw=true
+
+output 11d - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/11d.png?raw=true
+
+output 12a - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/12a.png?raw=true
+
+output 12b - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/12b.png?raw=true
+
+output 12c - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/12c.png?raw=true
+
+output 12d - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/12c.png?raw=true
+
 Mini project - https://github.com/dhathri-587/Advance-java-J2EE/blob/main/java/mini%20project1.png?raw=true
